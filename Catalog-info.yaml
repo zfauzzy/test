@@ -1,0 +1,10 @@
+apiVersion: 1.2
+kind: Component
+metadata:
+  name: Authentication MFE
+spec:
+  type: MFE
+  lifecycle: experimental
+  owner: RAD
+  system: MFEs
+  
